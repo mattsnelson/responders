@@ -1,2 +1,2 @@
 # responders
-Code utilised to compare baseline diet and microbiome in responders and non-responders to prebiotic fibre intervention
+Code accompanying the manuscript "Pre-intervention intake of whole grains versus refined grains, and the gut microbiome, discriminate the antihypertensive effect of prebiotic fibre."
